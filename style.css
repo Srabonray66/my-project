@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Akaya Telivigala', cursive;
+}
+.container{
+    background-color: black;
+}
+.container h1{
+    background-color: black;
+    color: white;
+}
+.row{
+    background-color:rgb(139, 82, 197)
+}
